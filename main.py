@@ -1,6 +1,6 @@
-import ptbot
 import os
 from pytimeparse import parse
+import ptbot
 
 
 def notify():
